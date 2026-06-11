@@ -1,16 +1,4 @@
-<div align="center">
 
-
-
-
-
-<br/>
-
-
-
-</div>
-
----
 
 ## 🧬 About Me
 
