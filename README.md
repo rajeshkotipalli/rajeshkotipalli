@@ -1,85 +1,314 @@
-<h1 align="center">Hi 👋, I'm K Rajesh</h1>
-<h3 align="center">Research-Oriented ECE Student | AI & IoT Enthusiast</h3>
+<div align="center">
+<!-- 3D Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajesh%20Kotipalli&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ECE%20(AI%20%26%20IoT)%20%7C%20IEEE%20Leader%20%7C%20Embedded%20AI%20Builder&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI+%26+IoT+Engineer+in+the+Making;🦾+Robotic+Hand+%7C+MeshMind+%7C+Vision+AI;📡+IEEE+VP+%7C+Researcher+%7C+Hackathon+Builder;🔬+MRIIRS+B.Tech+ECE+%7C+Batch+2028" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile views + GitHub stats badges row -->
+Show Image
+Show Image
 
-<p align="center">
-  <a href="mailto:k94586034@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+</div>
 
----
+<!-- 3D Contribution Snake -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
-### 👨‍💻 About Me
+🧬 About Me
 
-[cite_start]I am a highly motivated and results-oriented student with a passion for developing solutions for real-life problems using a research-oriented mindset[cite: 4]. 
+pythonclass RajeshKotipalli:
+    def __init__(self):
+        self.name        = "Rajesh Kotipalli"
+        self.degree      = "B.Tech ECE (AI & IoT) — MRIIRS, Faridabad"
+        self.year        = "2nd Year | CGPA: 7.5 | Batch 2028"
+        self.location    = "Amalapuram, Andhra Pradesh 🇮🇳"
+        self.email       = "k94586034@gmail.com"
+        
+        self.ieee_roles  = [
+            "Vice President — Antennas & Propagation Society (APS)",
+            "Secretary     — Electronics Packaging Society (EPS)",
+            "Member        — Society for Information Display (SID)"
+        ]
+        
+        self.current_focus = [
+            "AI-based Disease Detection (Webcam + EfficientNet/ViT)",
+            "ServiceNow Administration & AI Engineering",
+            "IEEE Research Paper Co-authorship",
+            "Portfolio + GitHub Brand Building"
+        ]
+        
+        self.fun_fact = "Built a ₹1,640 robotic hand that understands sign language 🤙"
 
-- [cite_start]🎓 Pursuing a **B.Tech in Electronics and Communication Engineering (AI & IoT)** at Manav Rachna International Institute of Research and Studies[cite: 6].
-- 🔭 Currently developing assistive technologies, including a 360-degree vision assistant for the visually impaired using YOLOv8 and TensorFlow.js, and a tendon-driven robotic hand using flex sensors.
-- 🌱 Deeply interested in embedded systems, microprocessor architectures (8085, 8086, 8051), and full-stack integration.
-- [cite_start]⚡ **Fun Fact:** I qualified for the IISc Bangalore LAM Exam, ranking among the top 4 selected candidates[cite: 75].
+    def say_hello(self):
+        print("Let's build something that matters. 🚀")
 
----
 
-### 🛠️ Tech Stack & Skills
+🏆 Achievements & Badges
 
-**Programming & Web Development**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<div align="center">
+🎖️ ServiceNow Certifications
 
-[cite_start]**Embedded Systems, Hardware & IoT** [cite: 13, 14, 15]
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
+BadgeCertificationIssued🟢ServiceNow AdministratorApr 25, 2026🌊Welcome to ServiceNow (Micro-Certification)Apr 22, 2026🎓Academic Partnership ParticipantMay 6, 2026
 
-[cite_start]**Tools & Platforms** [cite: 19]
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-</p>
+🪽 Wingspan Learning Badges
 
----
+BadgeAchievementDate🛡️ WarriorCompleted first courseMay 31, 2026⚔️ DuelistCompleted first quizMay 31, 2026🐣 The FledglingRegistered on Wingspan platformMar 28, 2026
 
-### 💼 Experience & Internships
+🥇 Competition Honours
 
-* **AI Engineer** (Virtual Internship) | [cite_start]*May 2026 - Present* [cite: 56, 61]
-* **Innoskill Program Participant** | [cite_start]*March 2026* [cite: 40, 41]
-  * [cite_start]Developed a low-cost robotic ASL fingerspelling hand using ESP32, MG90S servos, and 3D-printed PLA[cite: 42].
-  * [cite_start]Achieved 92.3% accuracy using MediaPipe and Random Forest AI, winning 2nd place at the Srijan competition and co-authoring an IEEE research paper[cite: 43, 44].
-* **ServiceNow Administrator** (Virtual Internship) | [cite_start]*Jan 2026 - Feb 2026* [cite: 55, 60]
-* **Research and Development (R&D) Intern** | *MRIIRS* | [cite_start]*Sep 2025 - Nov 2025* [cite: 36, 37]
-  * [cite_start]Developed LFIA strips for quick and affordable detection of Acetamiprid pesticide residues in food[cite: 38].
-* **Data Science Intern** | *Codtech IT Solutions* | [cite_start]*Jun 2025 - Jul 2025* [cite: 52, 58]
+AwardEventDetails🥈 2nd PlaceSrijan — MRIIRSSign Language Robotic Hand🏅 ShortlistedSmart India Hackathon 2025Top healthcare submission, Round 2🏗️ ParticipantTerraHack 2026MeshMind — Offline Mesh Network🤖 ParticipantRoboCraze — KR MangalamRobot prototype presentation♻️ AppreciationMitsubishi Electric CupPlastic-to-brick innovation
 
----
+</div>
 
-### 🚀 Key Projects
+🚀 Featured Projects
 
-* [cite_start]**AI-Powered Robotic Hand for ASL:** Designed a physical robotic hand for fingerspelling using ESP32, servos, MediaPipe, and Python[cite: 22, 23]. 
-* [cite_start]**Footstep Power Generation System:** Built a sustainable energy prototype based on a Japanese model to generate electricity from walking pressure for smart city applications[cite: 29, 30, 31].
-* [cite_start]**Smoke & Gas Alarm System:** Developed an integrated sensor alarm system to detect hazardous environments in mining and household settings[cite: 32, 33, 34].
-* [cite_start]**Smart Home Automation & Thermostat:** Engineered automated appliance and temperature control systems utilizing sensor-based Arduino configurations[cite: 25, 26, 27, 28].
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+🦾 Sign Language Robotic Hand
 
----
 
-### 🏆 Leadership & Certifications
+Winner · 2nd Place @ Srijan, MRIIRS
 
-* [cite_start]**Vice President:** IEEE Antennas and Propagation Society (APS)[cite: 62].
-* [cite_start]**Secretary:** IEEE Electronics Packaging Society (EPS)[cite: 63].
-* [cite_start]**Active Member:** Society for Information Display (SID)[cite: 64].
-* [cite_start]**Certifications:** Six Sigma White Belt (CSSC) [cite: 68][cite_start], Google Gemini Certified Student [cite: 70][cite_start], IISc Bangalore LAM [cite: 72][cite_start], and various AI Engineering certifications from Infosys[cite: 73].
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="GitHub Streak" />
-</p>
+🧠 AI Stack: MediaPipe + Random Forest Classifier
+⚙️ Hardware: ESP32 + 5× MG90S Servos + 3D-printed PLA
+💰 Cost: Only ₹1,640 (< $20!)
+🎯 Accuracy: 92.3% ASL Fingerspelling
+📄 Co-authored IEEE Research Paper
+
+
+ESP32 Python MediaPipe Random Forest 3D Printing
+
+</td>
+<td width="50%" valign="top">
+🌐 MeshMind — Emergency Mesh Network
+
+
+Built @ TerraHack 2026 Hackathon
+
+
+
+
+📡 Concept: Offline P2P emergency comms using LoRa
+🔄 Protocol: Gossip Protocol + CRDT sync
+⚡ Stack: Node.js backend, no internet required
+🆘 Works in disaster zones, zero infrastructure
+📄 Co-authored IEEE Research Paper
+
+
+Node.js LoRa Gossip Protocol CRDT P2P
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🔬 LFIA Pesticide Detection Strip
+
+
+R&D Intern — MRIIRS SOC Dept
+
+
+
+
+🧪 Detect Acetamiprid residues in food
+💡 Low-cost biosensor research
+🏥 Food safety application for rural India
+⚗️ Lateral Flow Immunoassay (LFIA) strips
+
+
+Biosensors Food Safety R&D LFIA
+
+</td>
+<td width="50%" valign="top">
+🧠 AI Disease Detection (WIP)
+
+
+Final Year Project
+
+
+
+
+👁️ Webcam-based oral / anemia / jaundice detection
+🤖 Models: EfficientNet / ViT
+🖥️ Stack: MediaPipe + Streamlit
+🌍 Low-cost, applicable in Indian rural context
+🏥 Zero-equipment medical screening
+
+
+EfficientNet ViT MediaPipe Streamlit OpenCV
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🌾 DreamForge Atlas
+
+
+Web App — GitHub Pages
+
+
+
+
+🎨 Firebase-backed AI image prompt manager
+📁 Category-based prompt storage
+🌐 Deployed on GitHub Pages
+⚡ Real-time database sync
+
+
+Firebase JavaScript HTML/CSS GitHub Pages
+
+</td>
+<td width="50%" valign="top">
+📡 THz Chiral Metasurface Filter
+
+
+IEEE Research — CST Studio Suite
+
+
+
+
+🔬 Bandpass filter targeting 1.0–1.5 THz
+🌀 Chiral pinwheel unit cell design
+🧮 Full EM simulation in CST Studio Suite
+📄 IEEE paper co-authored
+
+
+CST Studio Electromagnetics THz Metamaterials
+
+</td>
+</tr>
+</table>
+</div>
+
+🛠️ Tech Stack
+
+<div align="center">
+Languages
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+AI / ML
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Embedded & IoT
+
+Show Image
+Show Image
+Show Image
+
+Tools & Platforms
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Hardware Design
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeshKotipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeshKotipalli&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshKotipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" width="40%" />
+</div>
+<!-- 3D GitHub Contribution Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajeshKotipalli&theme=tokyonight" width="90%"/>
+</div>
+
+💼 Experience Timeline
+
+📅 2025 Jan–Mar   ┃  B.Tech ECE (AI & IoT) — MRIIRS begins
+📅 2025 Jun–Jul   ┃  Data Science Intern — Codtech IT Solutions
+📅 2025 Sep–Nov   ┃  Research Intern — MRIIRS SOC (LFIA Biosensor)
+📅 2025 Nov       ┃  Smart India Hackathon 2025 — Shortlisted Top Submissions
+📅 2026 Jan–Feb   ┃  ServiceNow Administrator Virtual Internship ✅
+📅 2026 Mar       ┃  Srijan Competition — 🥈 2nd Place (Robotic ASL Hand)
+📅 2026 Mar       ┃  Wingspan Platform — The Fledgling Badge 🐣
+📅 2026 Apr       ┃  ServiceNow Micro-Certifications (Welcome + Admin) 🟢
+📅 2026 May–Now   ┃  AI Engineer Virtual Internship (Ongoing) 🔄
+📅 2026 May       ┃  TerraHack 2026 — MeshMind P2P Mesh Network
+📅 2026 May       ┃  Wingspan — Warrior 🛡️ + Duelist ⚔️ Badges
+📅 2026 Jun       ┃  ServiceNow Academic Partnership Badge 🎓
+📅 2026–2028      ┃  Final Year Project: AI Disease Detection 🔬 (WIP)
+
+
+🏅 Certifications
+
+<div align="center">
+CertificationIssuerStatus🟢 ServiceNow AdministratorServiceNow✅ Apr 2026🌊 Welcome to ServiceNowServiceNow✅ Apr 2026🎓 Academic Partnership ParticipantServiceNow✅ May 2026🤖 AI EngineeringInfosys✅ Multiple💎 Gemini Certified StudentGoogle✅⚡ Arduino CertificationUdemy✅🏭 LAM Exam — Top 4 SelectedIISc Bangalore✅💡 EntrepreneurshipWadhwani Foundation✅📊 Six Sigma White BeltCSSC✅🏫 MR Impact 4.0MRIIRS✅
+
+</div>
+
+🌐 IEEE Leadership
+
+<div align="center">
+┌─────────────────────────────────────────────────────────┐
+│                  IEEE @ MRIIRS                          │
+│                                                         │
+│  🔵 Vice President                                      │
+│     Antennas & Propagation Society (APS)               │
+│                                                         │
+│  🟣 Secretary                                           │
+│     Electronics Packaging Society (EPS)                │
+│                                                         │
+│  🟢 Active Member                                       │
+│     Society for Information Display (SID)              │
+│                                                         │
+│  📄 Co-authored IEEE Research Papers:                   │
+│     • Low-Cost Robotic ASL Communication System        │
+│     • THz Chiral Pinwheel Metasurface Bandpass Filter  │
+│     • Microstrip Hairpin Bandpass Filter (2.4 GHz)     │
+│     • MeshMind Offline P2P Mesh Network                │
+└─────────────────────────────────────────────────────────┘
+
+</div>
+
+📫 Connect With Me
+
+<div align="center">
+Show Image
+Show Image
+Show Image
+
+📍 Amalapuram, Andhra Pradesh, India  |  📞 +91-9346667477
+
+</div>
+
+<!-- Bottom wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<div align="center">
+  <i>"Build something that matters — with ₹1,640 or ₹1,640,000." 🚀</i>
+</div>
