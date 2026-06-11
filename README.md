@@ -7,11 +7,12 @@
 </a>
 <br/>
 <!-- Profile views + GitHub stats badges row -->
-Show Image
-Show Image
-
+![Profile Views](https://komarev.com/ghpvc/?username=RajeshKotipalli&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/RajeshKotipalli?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)](https://github.com/RajeshKotipalli)
+ 
 </div>
-
+---
+ 
 <!-- 3D Contribution Snake -->
 <div align="center">
 <picture>
@@ -20,10 +21,12 @@ Show Image
   <img alt="github-snake" src="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 </div>
-
-🧬 About Me
-
-pythonclass RajeshKotipalli:
+---
+ 
+## 🧬 About Me
+ 
+```python
+class RajeshKotipalli:
     def __init__(self):
         self.name        = "Rajesh Kotipalli"
         self.degree      = "B.Tech ECE (AI & IoT) — MRIIRS, Faridabad"
@@ -45,197 +48,166 @@ pythonclass RajeshKotipalli:
         ]
         
         self.fun_fact = "Built a ₹1,640 robotic hand that understands sign language 🤙"
-
+ 
     def say_hello(self):
         print("Let's build something that matters. 🚀")
-
-
-🏆 Achievements & Badges
-
+```
+ 
+---
+ 
+## 🏆 Achievements & Badges
+ 
 <div align="center">
-🎖️ ServiceNow Certifications
-
-BadgeCertificationIssued🟢ServiceNow AdministratorApr 25, 2026🌊Welcome to ServiceNow (Micro-Certification)Apr 22, 2026🎓Academic Partnership ParticipantMay 6, 2026
-
-🪽 Wingspan Learning Badges
-
-BadgeAchievementDate🛡️ WarriorCompleted first courseMay 31, 2026⚔️ DuelistCompleted first quizMay 31, 2026🐣 The FledglingRegistered on Wingspan platformMar 28, 2026
-
-🥇 Competition Honours
-
-AwardEventDetails🥈 2nd PlaceSrijan — MRIIRSSign Language Robotic Hand🏅 ShortlistedSmart India Hackathon 2025Top healthcare submission, Round 2🏗️ ParticipantTerraHack 2026MeshMind — Offline Mesh Network🤖 ParticipantRoboCraze — KR MangalamRobot prototype presentation♻️ AppreciationMitsubishi Electric CupPlastic-to-brick innovation
-
+### 🎖️ ServiceNow Certifications
+| Badge | Certification | Issued |
+|:---:|:---|:---:|
+| 🟢 | **ServiceNow Administrator** | Apr 25, 2026 |
+| 🌊 | **Welcome to ServiceNow** (Micro-Certification) | Apr 22, 2026 |
+| 🎓 | **Academic Partnership Participant** | May 6, 2026 |
+ 
+### 🪽 Wingspan Learning Badges
+| Badge | Achievement | Date |
+|:---:|:---|:---:|
+| 🛡️ **Warrior** | Completed first course | May 31, 2026 |
+| ⚔️ **Duelist** | Completed first quiz | May 31, 2026 |
+| 🐣 **The Fledgling** | Registered on Wingspan platform | Mar 28, 2026 |
+ 
+### 🥇 Competition Honours
+| Award | Event | Details |
+|:---:|:---|:---|
+| 🥈 2nd Place | **Srijan — MRIIRS** | Sign Language Robotic Hand |
+| 🏅 Shortlisted | **Smart India Hackathon 2025** | Top healthcare submission, Round 2 |
+| 🏗️ Participant | **TerraHack 2026** | MeshMind — Offline Mesh Network |
+| 🤖 Participant | **RoboCraze — KR Mangalam** | Robot prototype presentation |
+| ♻️ Appreciation | **Mitsubishi Electric Cup** | Plastic-to-brick innovation |
+ 
 </div>
-
-🚀 Featured Projects
-
+---
+ 
+## 🚀 Featured Projects
+ 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-🦾 Sign Language Robotic Hand
-
-
-Winner · 2nd Place @ Srijan, MRIIRS
-
-
-
-
-🧠 AI Stack: MediaPipe + Random Forest Classifier
-⚙️ Hardware: ESP32 + 5× MG90S Servos + 3D-printed PLA
-💰 Cost: Only ₹1,640 (< $20!)
-🎯 Accuracy: 92.3% ASL Fingerspelling
-📄 Co-authored IEEE Research Paper
-
-
-ESP32 Python MediaPipe Random Forest 3D Printing
-
+### 🦾 Sign Language Robotic Hand
+> **Winner · 2nd Place @ Srijan, MRIIRS**
+ 
+- 🧠 **AI Stack:** MediaPipe + Random Forest Classifier
+- ⚙️ **Hardware:** ESP32 + 5× MG90S Servos + 3D-printed PLA
+- 💰 **Cost:** Only ₹1,640 (< $20!)
+- 🎯 **Accuracy:** 92.3% ASL Fingerspelling
+- 📄 Co-authored **IEEE Research Paper**
+`ESP32` `Python` `MediaPipe` `Random Forest` `3D Printing`
+ 
 </td>
 <td width="50%" valign="top">
-🌐 MeshMind — Emergency Mesh Network
-
-
-Built @ TerraHack 2026 Hackathon
-
-
-
-
-📡 Concept: Offline P2P emergency comms using LoRa
-🔄 Protocol: Gossip Protocol + CRDT sync
-⚡ Stack: Node.js backend, no internet required
-🆘 Works in disaster zones, zero infrastructure
-📄 Co-authored IEEE Research Paper
-
-
-Node.js LoRa Gossip Protocol CRDT P2P
-
+### 🌐 MeshMind — Emergency Mesh Network
+> **Built @ TerraHack 2026 Hackathon**
+ 
+- 📡 **Concept:** Offline P2P emergency comms using LoRa
+- 🔄 **Protocol:** Gossip Protocol + CRDT sync
+- ⚡ **Stack:** Node.js backend, no internet required
+- 🆘 Works in disaster zones, zero infrastructure
+- 📄 Co-authored **IEEE Research Paper**
+`Node.js` `LoRa` `Gossip Protocol` `CRDT` `P2P`
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-🔬 LFIA Pesticide Detection Strip
-
-
-R&D Intern — MRIIRS SOC Dept
-
-
-
-
-🧪 Detect Acetamiprid residues in food
-💡 Low-cost biosensor research
-🏥 Food safety application for rural India
-⚗️ Lateral Flow Immunoassay (LFIA) strips
-
-
-Biosensors Food Safety R&D LFIA
-
+### 🔬 LFIA Pesticide Detection Strip
+> **R&D Intern — MRIIRS SOC Dept**
+ 
+- 🧪 Detect **Acetamiprid** residues in food
+- 💡 Low-cost biosensor research
+- 🏥 Food safety application for rural India
+- ⚗️ Lateral Flow Immunoassay (LFIA) strips
+`Biosensors` `Food Safety` `R&D` `LFIA`
+ 
 </td>
 <td width="50%" valign="top">
-🧠 AI Disease Detection (WIP)
-
-
-Final Year Project
-
-
-
-
-👁️ Webcam-based oral / anemia / jaundice detection
-🤖 Models: EfficientNet / ViT
-🖥️ Stack: MediaPipe + Streamlit
-🌍 Low-cost, applicable in Indian rural context
-🏥 Zero-equipment medical screening
-
-
-EfficientNet ViT MediaPipe Streamlit OpenCV
-
+### 🧠 AI Disease Detection (WIP)
+> **Final Year Project**
+ 
+- 👁️ Webcam-based oral / anemia / jaundice detection
+- 🤖 **Models:** EfficientNet / ViT
+- 🖥️ **Stack:** MediaPipe + Streamlit
+- 🌍 Low-cost, applicable in Indian rural context
+- 🏥 Zero-equipment medical screening
+`EfficientNet` `ViT` `MediaPipe` `Streamlit` `OpenCV`
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-🌾 DreamForge Atlas
-
-
-Web App — GitHub Pages
-
-
-
-
-🎨 Firebase-backed AI image prompt manager
-📁 Category-based prompt storage
-🌐 Deployed on GitHub Pages
-⚡ Real-time database sync
-
-
-Firebase JavaScript HTML/CSS GitHub Pages
-
+### 🌾 DreamForge Atlas
+> **Web App — GitHub Pages**
+ 
+- 🎨 Firebase-backed AI image prompt manager
+- 📁 Category-based prompt storage
+- 🌐 Deployed on GitHub Pages
+- ⚡ Real-time database sync
+`Firebase` `JavaScript` `HTML/CSS` `GitHub Pages`
+ 
 </td>
 <td width="50%" valign="top">
-📡 THz Chiral Metasurface Filter
-
-
-IEEE Research — CST Studio Suite
-
-
-
-
-🔬 Bandpass filter targeting 1.0–1.5 THz
-🌀 Chiral pinwheel unit cell design
-🧮 Full EM simulation in CST Studio Suite
-📄 IEEE paper co-authored
-
-
-CST Studio Electromagnetics THz Metamaterials
-
+### 📡 THz Chiral Metasurface Filter
+> **IEEE Research — CST Studio Suite**
+ 
+- 🔬 Bandpass filter targeting **1.0–1.5 THz**
+- 🌀 Chiral pinwheel unit cell design
+- 🧮 Full EM simulation in CST Studio Suite
+- 📄 IEEE paper co-authored
+`CST Studio` `Electromagnetics` `THz` `Metamaterials`
+ 
 </td>
 </tr>
 </table>
 </div>
-
-🛠️ Tech Stack
-
+---
+ 
+## 🛠️ Tech Stack
+ 
 <div align="center">
-Languages
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-AI / ML
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Embedded & IoT
-
-Show Image
-Show Image
-Show Image
-
-Tools & Platforms
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Hardware Design
-
-Show Image
-Show Image
-Show Image
-Show Image
-
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+ 
+### Embedded & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+ 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+ 
+### Hardware Design
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
+![Eagle](https://img.shields.io/badge/Eagle%20PCB-006298?style=for-the-badge&logo=autodesk&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+ 
 </div>
-
-📊 GitHub Stats
-
+---
+ 
+## 📊 GitHub Stats
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajeshKotipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeshKotipalli&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="48%" />
@@ -247,9 +219,11 @@ Show Image
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajeshKotipalli&theme=tokyonight" width="90%"/>
 </div>
-
-💼 Experience Timeline
-
+---
+ 
+## 💼 Experience Timeline
+ 
+```
 📅 2025 Jan–Mar   ┃  B.Tech ECE (AI & IoT) — MRIIRS begins
 📅 2025 Jun–Jul   ┃  Data Science Intern — Codtech IT Solutions
 📅 2025 Sep–Nov   ┃  Research Intern — MRIIRS SOC (LFIA Biosensor)
@@ -263,18 +237,33 @@ Show Image
 📅 2026 May       ┃  Wingspan — Warrior 🛡️ + Duelist ⚔️ Badges
 📅 2026 Jun       ┃  ServiceNow Academic Partnership Badge 🎓
 📅 2026–2028      ┃  Final Year Project: AI Disease Detection 🔬 (WIP)
-
-
-🏅 Certifications
-
+```
+ 
+---
+ 
+## 🏅 Certifications
+ 
 <div align="center">
-CertificationIssuerStatus🟢 ServiceNow AdministratorServiceNow✅ Apr 2026🌊 Welcome to ServiceNowServiceNow✅ Apr 2026🎓 Academic Partnership ParticipantServiceNow✅ May 2026🤖 AI EngineeringInfosys✅ Multiple💎 Gemini Certified StudentGoogle✅⚡ Arduino CertificationUdemy✅🏭 LAM Exam — Top 4 SelectedIISc Bangalore✅💡 EntrepreneurshipWadhwani Foundation✅📊 Six Sigma White BeltCSSC✅🏫 MR Impact 4.0MRIIRS✅
-
+| Certification | Issuer | Status |
+|:---|:---|:---:|
+| 🟢 ServiceNow Administrator | ServiceNow | ✅ Apr 2026 |
+| 🌊 Welcome to ServiceNow | ServiceNow | ✅ Apr 2026 |
+| 🎓 Academic Partnership Participant | ServiceNow | ✅ May 2026 |
+| 🤖 AI Engineering | Infosys | ✅ Multiple |
+| 💎 Gemini Certified Student | Google | ✅ |
+| ⚡ Arduino Certification | Udemy | ✅ |
+| 🏭 LAM Exam — Top 4 Selected | IISc Bangalore | ✅ |
+| 💡 Entrepreneurship | Wadhwani Foundation | ✅ |
+| 📊 Six Sigma White Belt | CSSC | ✅ |
+| 🏫 MR Impact 4.0 | MRIIRS | ✅ |
+ 
 </div>
-
-🌐 IEEE Leadership
-
+---
+ 
+## 🌐 IEEE Leadership
+ 
 <div align="center">
+```
 ┌─────────────────────────────────────────────────────────┐
 │                  IEEE @ MRIIRS                          │
 │                                                         │
@@ -293,22 +282,26 @@ CertificationIssuerStatus🟢 ServiceNow AdministratorServiceNow✅ Apr 2026🌊
 │     • Microstrip Hairpin Bandpass Filter (2.4 GHz)     │
 │     • MeshMind Offline P2P Mesh Network                │
 └─────────────────────────────────────────────────────────┘
-
+```
+ 
 </div>
-
-📫 Connect With Me
-
+---
+ 
+## 📫 Connect With Me
+ 
 <div align="center">
-Show Image
-Show Image
-Show Image
-
-📍 Amalapuram, Andhra Pradesh, India  |  📞 +91-9346667477
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-kotipalli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k94586034@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshKotipalli)
+ 
+📍 Amalapuram, Andhra Pradesh, India &nbsp;|&nbsp; 📞 +91-9346667477
+ 
 </div>
-
+---
+ 
 <!-- Bottom wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 <div align="center">
   <i>"Build something that matters — with ₹1,640 or ₹1,640,000." 🚀</i>
 </div>
+ 
