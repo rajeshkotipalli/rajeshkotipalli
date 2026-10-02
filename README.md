@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+complete+products%2C+not+just+prototypes;Java+%2B+Spring+Boot+%2B+React+%2B+AI+Agents;ECE+student+%7C+IEEE+leader+%7C+Infosys+Springboard+intern)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://agent-6a57bcdc4eda906843--rajeshkotipalli.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://kotipallirajesh.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-kotipalli-b82602288)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k94586034@gmail.com)
 
@@ -24,7 +24,7 @@ class RajeshKotipalli:
         self.email       = "k94586034@gmail.com"
 
         self.ieee_roles  = [
-            "Vice President — Antennas & Propagation Society (APS)",
+            "Active Member  — Antennas & Propagation Society (APS)",
             "Secretary      — Electronics Packaging Society (EPS)",
             "Member         — Society for Information Display (SID)"
         ]
@@ -326,7 +326,7 @@ Pick your move. It opens a pre-filled GitHub issue. Hit **Submit new issue** and
 ┌───────────────────────────────────────────────────────┐
 │                      IEEE @ MRIIRS                    │
 ├───────────────────────────────────────────────────────┤
-│  🟣  Vice President                                   │
+│  🟣  Active Member                                    │
 │      Antennas & Propagation Society (APS)             │
 │                                                       │
 │  🟣  Secretary                                        │
@@ -348,7 +348,7 @@ Pick your move. It opens a pre-filled GitHub issue. Hit **Submit new issue** and
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://agent-6a57bcdc4eda906843--rajeshkotipalli.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://kotipallirajesh.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-kotipalli-b82602288)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k94586034@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshKotipalli)
