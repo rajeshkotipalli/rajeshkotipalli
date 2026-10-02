@@ -272,22 +272,23 @@ class RajeshKotipalli:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    IEEE @ MRIIRS                        │
+│                    IEEE @ MRIIRS                                                                                                    │
 ├─────────────────────────────────────────────────────────┤
-│  🔵  Vice President                                     │
-│      Antennas & Propagation Society (APS)              │
-│                                                         │
-│  🟣  Secretary                                          │
-│      Electronics Packaging Society (EPS)               │
-│                                                         │
-│  🟢  Active Member                                      │
-│      Society for Information Display (SID)             │
+│                                                                                                                                                   │
+│    🟣 Active member                                                                                                                  │
+│        Antenna Propagation Society                                                                                             │
+│                                                                                                                                                   │
+│  🟣  Secretary                                                                                                                           │
+│      Electronics Packaging Society (EPS)                                                                                  │
+│                                                                                                                                                   │
+│  🟢  Active Member                                                                                                                  │
+│      Society for Information Display (SID)                                                                                  │
 ├─────────────────────────────────────────────────────────┤
-│  📄  Co-authored IEEE Research Papers:                  │
-│      • Low-Cost Robotic ASL Communication System       │
-│      • THz Chiral Pinwheel Metasurface Bandpass Filter │
-│      • Microstrip Hairpin Bandpass Filter (2.4 GHz)    │
-│      • MeshMind Offline P2P Emergency Mesh Network     │
+│  📄  Co-authored IEEE Research Papers:                                                                              │
+│      • Low-Cost Robotic ASL Communication System                                                               │
+│      • THz Chiral Pinwheel Metasurface Bandpass Filter                                                           │
+│      • Microstrip Hairpin Bandpass Filter (2.4 GHz)                                                                    │
+│      • MeshMind Offline P2P Emergency Mesh Network                                                            │
 └─────────────────────────────────────────────────────────┘
 ```
 
