@@ -69,7 +69,7 @@ class RajeshKotipalli:
 | 🏅 Shortlisted | **Smart India Hackathon 2025** | Top healthcare submission, Round 2 |
 | 🏗️ Participant | **TerraHack 2026** | MeshMind — Offline Mesh Network |
 | 🤖 Participant | **RoboCraze — KR Mangalam** | Robot prototype presentation |
-| ♻️ Appreciation | **Mitsubishi Electric Cup** | Plastic-to-brick innovation |
+
 
 </div>
 
