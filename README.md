@@ -12,7 +12,7 @@ class RajeshKotipalli:
         self.email       = "k94586034@gmail.com"
 
         self.ieee_roles  = [
-            "Vice President — Antennas & Propagation Society (APS)",
+            "Active member — Antennas & Propagation Society (APS)",
             "Secretary     — Electronics Packaging Society (EPS)",
             "Member        — Society for Information Display (SID)"
         ]
