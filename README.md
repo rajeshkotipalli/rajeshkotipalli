@@ -53,14 +53,3 @@
 
 ---
 
-<div align="center">
-
-## Play Rock Paper Scissors with Me
-
-<a href="https://github.com/RajeshKotipalli/RajeshKotipalli/issues/new?title=rps%7Crock&body=Just+click+%22Submit+new+issue%22.+You%27ll+get+the+result+in+a+few+seconds!"><img src="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/main/assets/rps-rock.svg" alt="Play Rock" width="230"/></a>
-<a href="https://github.com/RajeshKotipalli/RajeshKotipalli/issues/new?title=rps%7Cpaper&body=Just+click+%22Submit+new+issue%22.+You%27ll+get+the+result+in+a+few+seconds!"><img src="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/main/assets/rps-paper.svg" alt="Play Paper" width="230"/></a>
-<a href="https://github.com/RajeshKotipalli/RajeshKotipalli/issues/new?title=rps%7Cscissors&body=Just+click+%22Submit+new+issue%22.+You%27ll+get+the+result+in+a+few+seconds!"><img src="https://raw.githubusercontent.com/RajeshKotipalli/RajeshKotipalli/main/assets/rps-scissors.svg" alt="Play Scissors" width="230"/></a>
-
-<sub>Click a card, hit "Submit new issue", and the bot replies in about 10 seconds.</sub>
-
-</div>
